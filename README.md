@@ -62,7 +62,7 @@ Analyze bird observation patterns across different habitats, times, and environm
 
 ## 🔗 Live Resource
 
-🌐 Live Dashboard: Add your Streamlit Cloud link here
+🌐 Live Dashboard: https://bird-species-observation-analysis-5y7bfbbcofs5p2vkz4faey.streamlit.app/
 
 ---
 
